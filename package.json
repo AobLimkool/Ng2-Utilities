@@ -1,0 +1,13 @@
+{
+  "name": "@obbiz/ng2",
+  "version": "1.0.0",
+  "description": "Ng2 Utilities",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+  ],
+  "author": "Mattakorn Limkool",
+  "license": "ISC"
+}
